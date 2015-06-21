@@ -7,4 +7,13 @@ Git automatically stay up-to-date with your remote repository?
 
 I might add things I am not sure about.
 
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+Fork is a copy of another reposotory on github
+A clone is a copy of a local repository
+
+a branch is a modification away from the master.
+
+
 
