@@ -26,5 +26,8 @@ What would be easier, and what would be harder?
 To store work in a central location. Sharing would be easier. but the learning curve 
 for git and github would be hard initially.
 
+When would you want to make changes in a separate branch 
+rather than directly in master? What benefits does each approach have?
 
+When I am going to  want feedback before finalizing.
 
