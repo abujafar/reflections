@@ -15,5 +15,10 @@ A clone is a copy of a local repository
 
 a branch is a modification away from the master.
 
+What is the benefit of having a copy of the 
+last known state of the remote stored locally?
+
+When there is no internet access
+
 
 
