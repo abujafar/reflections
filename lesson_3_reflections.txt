@@ -20,5 +20,11 @@ last known state of the remote stored locally?
 
 When there is no internet access
 
+How would you collaborate without using Git or GitHub? 
+What would be easier, and what would be harder?
+
+To store work in a central location. Sharing would be easier. but the learning curve 
+for git and github would be hard initially.
+
 
 
